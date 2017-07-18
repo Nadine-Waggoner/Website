@@ -1,20 +1,21 @@
 body {
   /*background-color: #ccffcc;*/
-  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/44/cf/d1/44cfd1b6d09e734fe96e9a20f16580f3.gif")
+  /*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/44/cf/d1/44cfd1b6d09e734fe96e9a20f16580f3.gif")*/
+  background-image: url("http://a1star.com/images/star--background-seamless-repeating5.jpg")
 }
 
 h1 {
   color: white;
   /*background-color: white;*/
-  font-family: "Verdana", sans-serif;
+  font-family: ‘American Typewriter’, ‘Courier New’, Courier, Monaco, mono;
   text-align: center;
   text-shadow: 1px 1px #404040;
   padding: 100px;
 }
 
 p {
-  color: #ff5050;
-  background-color: white;
+  color: white;
+  background-color: none;
   /*background-image: url("http://www.zingerbug.com/Backgrounds/background_images/light_blue_diagonal_bricks_pattern.gif");*/
   font-family: "Verdana", sans-serif;
   /*text-shadow: 2px 2px #e6e6e6;*/
@@ -22,7 +23,16 @@ p {
   font-weight: normal;
   padding: 50px 50px;
   margin: 25px 50px;
-  border: 2px solid black;
+  border: 2px solid white;
   text-indent: inherit;
 }
 /*e6e6e6 is the light gray*/
+
+/*
+#seemless star backgrounds
+background-image: url("http://a1star.com/images/star--background-seamless-repeating5.jpg")
+background-image: url("http://www.hifreevideos.com/images/preview/Seamless-Backgrounds-50095.jpg")
+background-image: url("http://www.graphicsbeam.com/wp-content/uploads/2012/03/Galaxies-Seamless-Texture-520x520.jpg")
+background-image: url("http://1-background.com/images/stars-1/stars-background-purple.jpg")
+
+*/
