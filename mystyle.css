@@ -1,13 +1,14 @@
 body {
   /*background-color: #ccffcc;*/
   /*background-image: url("https://s-media-cache-ak0.pinimg.com/originals/44/cf/d1/44cfd1b6d09e734fe96e9a20f16580f3.gif")*/
-  background-image: url("http://a1star.com/images/star--background-seamless-repeating5.jpg")
+  background-image: url("http://1-background.com/images/stars-1/stars-background-purple.jpg")
 }
 
 h1 {
   color: white;
   /*background-color: white;*/
-  font-family: "Verdana", sans-serif;
+  /*font-family: "Verdana", sans-serif;*/
+  font-family: 'Open Sans', sans-serif;
   text-align: center;
   text-shadow: 1px 1px black;
   padding: 100px;
@@ -23,7 +24,7 @@ p {
   font-weight: normal;
   padding: 50px 50px;
   margin: 25px 50px;
-  border: 2px solid white;
+  /*border: 2px solid white;*/
   text-indent: inherit;
 }
 
